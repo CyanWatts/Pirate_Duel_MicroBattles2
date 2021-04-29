@@ -30,8 +30,9 @@ I use Visual Studio 2019(WinForm) to write this game.
 	The Gray line at the very left and right side. When a pirate or knife touches the Wall, he/it will rebound to the reverse horizontal direction.
 
   (2) Beginning of the game
+  
 	Two pirates start in a symmetrical position, each with a knife in hands( though they don't seem to have hands )
 
-    
-    (3) Interaction of players ( rule for winning )
-		The first pirate to win 5 points wins the game. ( Namely kills the other 5 times )
+  (2) Interaction of players ( rule for winning ) 
+  
+	The first pirate to win 5 points wins the game. ( Namely kills the other 5 times )
