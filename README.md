@@ -4,11 +4,13 @@ I use Visual Studio 2019(WinForm) to write this game.
 
 0. File Structure：
 	The directory "Pirate Duel" is the source code, that is, the original project directory of Visual Studio.
+	
 	The file "PirateDuel_Setup1.0.msi" and "setup.exe" is for the setup of this game ( Windows )
 
 1. Operating instructions：(Keyboard)
 	Player1：A key ( if you choose PVE mode, then you will be Player1, and Player2 is controlled by the computer, which currently chooses action randomly )
-  Player2: L key ( if you choose PVP mode )
+	
+  	Player2: L key ( if you choose PVP mode )
 
 2. Introduction to the game
 
