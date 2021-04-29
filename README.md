@@ -11,7 +11,7 @@ I'am deeply impressed by the excellent idea of the game series "Micro Battles", 
 	
 	The file "PirateDuel_Setup1.0.msi" and "setup.exe" is for the setup of this game ( Windows )
 	
-	Note that it's required to put the file "PirateDuel_Setup1.0.msi" and "setup.exe" in the same directory.
+	Note that it's required to put the file "PirateDuel_Setup1.0.msi" and "setup.exe" in the same directory to make a successful setup.
 
 # 1. Operating instructions：(Keyboard)
 
