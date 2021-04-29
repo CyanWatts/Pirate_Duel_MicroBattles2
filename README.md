@@ -33,6 +33,6 @@ I use Visual Studio 2019(WinForm) to write this game.
   
 	Two pirates start in a symmetrical position, each with a knife in hands( though they don't seem to have hands )
 
-  (2) Interaction of players ( rule for winning ) 
+  (3) Interaction of players ( rule for winning ) 
   
 	The first pirate to win 5 points wins the game. ( Namely kills the other 5 times )
