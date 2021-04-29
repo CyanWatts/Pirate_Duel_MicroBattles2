@@ -1,6 +1,9 @@
 # Pirate_Duel_MicroBattles2
 A C#-based easy pixel version of the "Pirate Duel" game in Micro Battles2. </br>
-I use Visual Studio 2019(WinForm) to write this game.
+I use Visual Studio 2019(WinForm) to write this game.</br>
+I'am deeply impressed by the excellent idea of the game series "Micro Battles", in which each player uses only one key to control his/her role and still enjoys a lot. However, it seems we can't play it in our Windows OS, so I come up with the idea to write a simple pixel version of my favorite game in "Micro Battles", which I call "Pirate Duel". Really hope this little project can bring some inspiration to you!
+
+
 
 0. File Structure：
 
