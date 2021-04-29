@@ -1,0 +1,30 @@
+D:\_Study\assignment\Game_Programming\One_Key1.0\One_Key\One_Key\bin\Debug\One_Key.exe.config
+D:\_Study\assignment\Game_Programming\One_Key1.0\One_Key\One_Key\bin\Debug\One_Key.exe
+D:\_Study\assignment\Game_Programming\One_Key1.0\One_Key\One_Key\bin\Debug\One_Key.pdb
+D:\_Study\assignment\Game_Programming\One_Key1.0\One_Key\One_Key\obj\Debug\One_Key.csprojAssemblyReference.cache
+D:\_Study\assignment\Game_Programming\One_Key1.0\One_Key\One_Key\obj\Debug\One_Key.Form1.resources
+D:\_Study\assignment\Game_Programming\One_Key1.0\One_Key\One_Key\obj\Debug\One_Key.Properties.Resources.resources
+D:\_Study\assignment\Game_Programming\One_Key1.0\One_Key\One_Key\obj\Debug\One_Key.csproj.GenerateResource.cache
+D:\_Study\assignment\Game_Programming\One_Key1.0\One_Key\One_Key\obj\Debug\One_Key.csproj.CoreCompileInputs.cache
+D:\_Study\assignment\Game_Programming\One_Key1.0\One_Key\One_Key\obj\Debug\One_Key.exe
+D:\_Study\assignment\Game_Programming\One_Key1.0\One_Key\One_Key\obj\Debug\One_Key.pdb
+C:\Users\29504\Documents\Tencent Files\295046487\FileRecv\One_Key1.0_21.4.24\One_Key\One_Key\bin\Debug\One_Key.exe.config
+C:\Users\29504\Documents\Tencent Files\295046487\FileRecv\One_Key1.0_21.4.24\One_Key\One_Key\bin\Debug\One_Key.exe
+C:\Users\29504\Documents\Tencent Files\295046487\FileRecv\One_Key1.0_21.4.24\One_Key\One_Key\bin\Debug\One_Key.pdb
+C:\Users\29504\Documents\Tencent Files\295046487\FileRecv\One_Key1.0_21.4.24\One_Key\One_Key\obj\Debug\One_Key.csprojAssemblyReference.cache
+C:\Users\29504\Documents\Tencent Files\295046487\FileRecv\One_Key1.0_21.4.24\One_Key\One_Key\obj\Debug\One_Key.Form1.resources
+C:\Users\29504\Documents\Tencent Files\295046487\FileRecv\One_Key1.0_21.4.24\One_Key\One_Key\obj\Debug\One_Key.Properties.Resources.resources
+C:\Users\29504\Documents\Tencent Files\295046487\FileRecv\One_Key1.0_21.4.24\One_Key\One_Key\obj\Debug\One_Key.csproj.GenerateResource.cache
+C:\Users\29504\Documents\Tencent Files\295046487\FileRecv\One_Key1.0_21.4.24\One_Key\One_Key\obj\Debug\One_Key.csproj.CoreCompileInputs.cache
+C:\Users\29504\Documents\Tencent Files\295046487\FileRecv\One_Key1.0_21.4.24\One_Key\One_Key\obj\Debug\One_Key.exe
+C:\Users\29504\Documents\Tencent Files\295046487\FileRecv\One_Key1.0_21.4.24\One_Key\One_Key\obj\Debug\One_Key.pdb
+D:\_Study\assignment\Game_Programming\One_Key2.0\One_Key\One_Key\bin\Debug\One_Key.exe.config
+D:\_Study\assignment\Game_Programming\One_Key2.0\One_Key\One_Key\bin\Debug\One_Key.exe
+D:\_Study\assignment\Game_Programming\One_Key2.0\One_Key\One_Key\bin\Debug\One_Key.pdb
+D:\_Study\assignment\Game_Programming\One_Key2.0\One_Key\One_Key\obj\Debug\One_Key.csprojAssemblyReference.cache
+D:\_Study\assignment\Game_Programming\One_Key2.0\One_Key\One_Key\obj\Debug\One_Key.Form1.resources
+D:\_Study\assignment\Game_Programming\One_Key2.0\One_Key\One_Key\obj\Debug\One_Key.Properties.Resources.resources
+D:\_Study\assignment\Game_Programming\One_Key2.0\One_Key\One_Key\obj\Debug\One_Key.csproj.GenerateResource.cache
+D:\_Study\assignment\Game_Programming\One_Key2.0\One_Key\One_Key\obj\Debug\One_Key.csproj.CoreCompileInputs.cache
+D:\_Study\assignment\Game_Programming\One_Key2.0\One_Key\One_Key\obj\Debug\One_Key.exe
+D:\_Study\assignment\Game_Programming\One_Key2.0\One_Key\One_Key\obj\Debug\One_Key.pdb
