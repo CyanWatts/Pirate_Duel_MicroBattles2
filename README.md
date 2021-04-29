@@ -10,6 +10,8 @@ I'am deeply impressed by the excellent idea of the game series "Micro Battles", 
 	The directory "Pirate Duel" is the source code, that is, the original project directory of Visual Studio.
 	
 	The file "PirateDuel_Setup1.0.msi" and "setup.exe" is for the setup of this game ( Windows )
+	
+	Note that it's required to put the file "PirateDuel_Setup1.0.msi" and "setup.exe" in the same directory.
 
 # 1. Operating instructions：(Keyboard)
 
