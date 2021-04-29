@@ -29,9 +29,8 @@ I use Visual Studio 2019(WinForm) to write this game.
 	**********Wall**********
 	The Gray line at the very left and right side. When a pirate or knife touches the Wall, he/it will rebound to the reverse horizontal direction.
 
-
-    (2) Beginning of the game
-		Two pirates start in a symmetrical position, each with a knife in hands( though they don't seem to have hands )
+  (2) Beginning of the game
+	Two pirates start in a symmetrical position, each with a knife in hands( though they don't seem to have hands )
 
     
     (3) Interaction of players ( rule for winning )
