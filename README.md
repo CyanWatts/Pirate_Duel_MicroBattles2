@@ -12,6 +12,7 @@ I use Visual Studio 2019(WinForm) to write this game.
 
 2. Introduction to the game
   (1) Elements
+	
 	**********Pirate**********
 	A 50*50 pixel block, which is controlled by the player/computer. A pirate can throw the knife and jump, and aims to kill the other one.
 
