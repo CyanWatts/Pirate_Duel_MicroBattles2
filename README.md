@@ -11,6 +11,7 @@ I use Visual Studio 2019(WinForm) to write this game.
   Player2: L key ( if you choose PVP mode )
 
 2. Introduction to the game
+
   (1) Elements
 	
 	**********Pirate**********
